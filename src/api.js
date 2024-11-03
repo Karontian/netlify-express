@@ -3,7 +3,8 @@ const serverless = require("serverless-http");
 const app = express();
 const router = express.Router();
 const cors = require('cors')
-const mongoose = require('mongoose')
+// const mongoose = require('mongoose')
+
 
 
 
